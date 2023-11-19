@@ -1,6 +1,6 @@
 version: '3.9'
 services:
-  #
+  # Mysql is not working for M1 chip MacOs
   #  db:
   #    image: mysql:latest
   #    volumes:
